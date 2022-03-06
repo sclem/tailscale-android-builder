@@ -1,0 +1,3 @@
+[submodule "tailscale-android"]
+	path = tailscale-android
+	url = git@github.com:tailscale/tailscale-android.git
